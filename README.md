@@ -1,3 +1,5 @@
+https://github.com/LValdes2003/Practica2-Redes.git
+
 # Practica2-Redes
 ## 1 Modelado de la Comunicación (OSI/TCP‑IP):
 
